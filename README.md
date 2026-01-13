@@ -16,36 +16,36 @@ promptd : Prompt Design # Prompt Engineering # Ideation # QA # Classification # 
 
 ## Prompt Design
 
-![sdkgenai001.png](./media/sdkgenai001.png)
+![promptd001.png](./media/promptd001.png)
 
-![sdkgenai002.png](./media/sdkgenai002.png)
+![promptd002.png](./media/promptd002.png)
 
-![sdkgenai003.png](./media/sdkgenai003.png)
+![promptd003.png](./media/promptd003.png)
 
-![sdkgenai004.png](./media/sdkgenai004.png)
+![promptd004.png](./media/promptd004.png)
 
-![sdkgenai005.png](./media/sdkgenai005.png)
+![promptd005.png](./media/promptd005.png)
 
-![sdkgenai006.png](./media/sdkgenai006.png)
+![promptd006.png](./media/promptd006.png)
 
-![sdkgenai007.png](./media/sdkgenai007.png)
+![promptd007.png](./media/promptd007.png)
 
-![sdkgenai008.png](./media/sdkgenai008.png)
+![promptd008.png](./media/promptd008.png)
 
-![sdkgenai009.png](./media/sdkgenai009.png)
+![promptd009.png](./media/promptd009.png)
 
-![sdkgenai010.png](./media/sdkgenai010.png)
+![promptd010.png](./media/promptd010.png)
 
-![sdkgenai011.png](./media/sdkgenai011.png)
+![promptd011.png](./media/promptd011.png)
 
-![sdkgenai012.png](./media/sdkgenai012.png)
+![promptd012.png](./media/promptd012.png)
 
-![sdkgenai013.png](./media/sdkgenai013.png)
+![promptd013.png](./media/promptd013.png)
 
-![sdkgenai014.png](./media/sdkgenai014.png)
+![promptd014.png](./media/promptd014.png)
 
-![sdkgenai015.png](./media/sdkgenai015.png)
+![promptd015.png](./media/promptd015.png)
 
-![sdkgenai016.png](./media/sdkgenai016.png)
+![promptd016.png](./media/promptd016.png)
 
-![promptd017.png](./media/sdkgenai017.png)
+![promptd017.png](./media/promptd017.png)
